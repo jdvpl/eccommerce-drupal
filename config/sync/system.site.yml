@@ -1,0 +1,14 @@
+uuid: fb73d44a-f073-4329-8600-f67ae8fc078d
+name: mapas
+mail: juanda554242@gmail.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: es
+default_langcode: es
+_core:
+  default_config_hash: yTxtFqBHnEWxQswuWvkjE8mKw2t8oKuCL1q8KnfHuGE
